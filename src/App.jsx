@@ -3,7 +3,7 @@ import IMAGES from "./images/logo.jpg";
 import IMAGES2 from "./images/search.svg";
 import IMAGES3 from "./images/bg.jpg";
 // import "./App.css";
-
+// aplikasi todolist dengan tema be a front end developer
 function ToDo() {
   const [items, setItems] = useState([]);
   const [editIndex, setEditIndex] = useState(null);
