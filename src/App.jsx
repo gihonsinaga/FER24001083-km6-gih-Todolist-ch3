@@ -141,7 +141,7 @@ function ToDo() {
         fontFamily: "Arial, Helvetica, sans-serif",
       }}
     >
-      <div className="container w-2/5 px-1 h-max mr-36  rounded-3xl shadow-2xl shadow-slate-700 rounded-tr-lg rounded-bl-lg border-black mt-32">
+      <div className="container w-2/5 px-1 h-max mr-36  rounded-xl shadow-2xl shadow-slate-800  border-black mt-32">
         <div className="">
           <form
             className="mt-5"
